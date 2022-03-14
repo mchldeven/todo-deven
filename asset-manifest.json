@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/todo-deven/static/css/main.45996b72.chunk.css",
+    "main.js": "/todo-deven/static/js/main.1b75c196.chunk.js",
+    "main.js.map": "/todo-deven/static/js/main.1b75c196.chunk.js.map",
+    "runtime~main.js": "/todo-deven/static/js/runtime~main.a7114913.js",
+    "runtime~main.js.map": "/todo-deven/static/js/runtime~main.a7114913.js.map",
+    "static/js/2.fafc1f83.chunk.js": "/todo-deven/static/js/2.fafc1f83.chunk.js",
+    "static/js/2.fafc1f83.chunk.js.map": "/todo-deven/static/js/2.fafc1f83.chunk.js.map",
+    "index.html": "/todo-deven/index.html",
+    "precache-manifest.4ff7a29b005430046aac261cf906e7fc.js": "/todo-deven/precache-manifest.4ff7a29b005430046aac261cf906e7fc.js",
+    "service-worker.js": "/todo-deven/service-worker.js",
+    "static/css/main.45996b72.chunk.css.map": "/todo-deven/static/css/main.45996b72.chunk.css.map",
+    "static/media/logo.svg": "/todo-deven/static/media/logo.5d5d9eef.svg"
+  }
+}
